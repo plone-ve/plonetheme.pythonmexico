@@ -10,7 +10,7 @@ Changelog
 - Added support for clean uninstallation using GenericSetup profile
   [macagua]
 
-- Added more strings classifiers items for this packages
+- Added more strings classifiers items for this package
   [macagua]
 
 - Added preview file for diazo theme manifest file
