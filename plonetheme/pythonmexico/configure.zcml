@@ -17,7 +17,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="plonetheme.pythonmexico: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.pythonmexico Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the plonetheme.pythonmexico package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
